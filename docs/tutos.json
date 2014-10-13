@@ -1,0 +1,4293 @@
+[
+  {
+    "$id": "1",
+    "Id": 1,
+    "Title": "OnMonteEnMaster S01E01",
+    "Description": "TvZ push sur 2 bases",
+    "Races": [
+      {
+        "$id": "2",
+        "Id": 1,
+        "Name": "Terran",
+        "Token": "t"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$id": "3",
+        "Id": 3,
+        "Name": "Zerg",
+        "Token": "z"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$id": "4",
+        "Id": 2,
+        "Name": "Silver",
+        "Token": "s"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=QGse7Ttf4NU",
+    "YoutubeId": "QGse7Ttf4NU",
+    "StartTiming": "",
+    "TutoType": {
+      "$id": "5",
+      "Name": "OnMonteEnMaster",
+      "Token": "o"
+    },
+    "Caster": {
+      "$id": "6",
+      "Name": "Makoz",
+      "Token": "m"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "7",
+    "Id": 2,
+    "Title": "OnMonteEnMaster S01E01",
+    "Description": "PvP 3grobot HOTS",
+    "Races": [
+      {
+        "$id": "8",
+        "Id": 2,
+        "Name": "Protoss",
+        "Token": "p"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=QGse7Ttf4NU#t=907s",
+    "YoutubeId": "QGse7Ttf4NU",
+    "StartTiming": "907",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "9",
+    "Id": 3,
+    "Title": "OnMonteEnMaster S01E01",
+    "Description": "ZVZ Push roach +1",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=QGse7Ttf4NU#t=1478s",
+    "YoutubeId": "QGse7Ttf4NU",
+    "StartTiming": "1478",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "10",
+    "Id": 4,
+    "Title": "OnMonteEnMaster S01E02",
+    "Description": "TvP anti all in puis push sur 2 bases",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=_ILUM3Kl5aw",
+    "YoutubeId": "_ILUM3Kl5aw",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "11",
+    "Id": 5,
+    "Title": "OnMonteEnMaster S01E02",
+    "Description": "PvT 3grobot HOTS safe",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=_ILUM3Kl5aw#t=802s",
+    "YoutubeId": "_ILUM3Kl5aw",
+    "StartTiming": "802",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "12",
+    "Id": 6,
+    "Title": "OnMonteEnMaster S01E02",
+    "Description": "ZVP Push roach Hydras 2 bases",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=_ILUM3Kl5aw#t=1267s",
+    "YoutubeId": "_ILUM3Kl5aw",
+    "StartTiming": "1267",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "13",
+    "Id": 7,
+    "Title": "OnMonteEnMaster S01E03",
+    "Description": "TvP anti canon rush puis push sur 2 bases sanction",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=utS8KSmKjIA",
+    "YoutubeId": "utS8KSmKjIA",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "14",
+    "Id": 8,
+    "Title": "OnMonteEnMaster S01E03",
+    "Description": "PvP 3g robot + switch adapt anti air",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=utS8KSmKjIA#t=582s",
+    "YoutubeId": "utS8KSmKjIA",
+    "StartTiming": "582",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "15",
+    "Id": 9,
+    "Title": "OnMonteEnMaster S01E03",
+    "Description": "ZVZ Push Zerlings allin",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=utS8KSmKjIA#t=1226s",
+    "YoutubeId": "utS8KSmKjIA",
+    "StartTiming": "1226",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "16",
+    "Id": 10,
+    "Title": "OnMonteEnMaster S01E04",
+    "Description": "TvZ introduction à la macro marines/tanks",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$id": "17",
+        "Id": 3,
+        "Name": "Gold",
+        "Token": "g"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=whBKfh7WPkc",
+    "YoutubeId": "whBKfh7WPkc",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "18",
+    "Id": 11,
+    "Title": "OnMonteEnMaster S01E04",
+    "Description": "PvT optimisation du 3G robot",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=whBKfh7WPkc#t=787s",
+    "YoutubeId": "whBKfh7WPkc",
+    "StartTiming": "787",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "19",
+    "Id": 12,
+    "Title": "OnMonteEnMaster S01E04",
+    "Description": "ZvT introduction à la macro sur 2 bases avec roaches",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=whBKfh7WPkc#t=1449s",
+    "YoutubeId": "whBKfh7WPkc",
+    "StartTiming": "1449",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "20",
+    "Id": 13,
+    "Title": "OnMonteEnMaster S01E05",
+    "Description": "TvP, BO safe fast exp HOTS avec mines",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=o2PR9plCjPg",
+    "YoutubeId": "o2PR9plCjPg",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "21",
+    "Id": 14,
+    "Title": "OnMonteEnMaster S01E05",
+    "Description": "PvP, le jeu aérien",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=o2PR9plCjPg#t=1000s",
+    "YoutubeId": "o2PR9plCjPg",
+    "StartTiming": "1000",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "22",
+    "Id": 15,
+    "Title": "OnMonteEnMaster S01E05",
+    "Description": " ZvZ Bo safe anti allin mass mass lings",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=o2PR9plCjPg#t=1723s",
+    "YoutubeId": "o2PR9plCjPg",
+    "StartTiming": "1723",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "23",
+    "Id": 16,
+    "Title": "OnMonteEnMaster S01E06",
+    "Description": "TvP, BO safe fast exp",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=4120Rsdodbg",
+    "YoutubeId": "4120Rsdodbg",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "24",
+    "Id": 17,
+    "Title": "OnMonteEnMaster S01E06",
+    "Description": "PvZ la sanction",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=4120Rsdodbg#t=1221s",
+    "YoutubeId": "4120Rsdodbg",
+    "StartTiming": "1221",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "25",
+    "Id": 18,
+    "Title": "OnMonteEnMaster S01E06",
+    "Description": "ZvP Bo 3 bases utilisation des swarm hosts",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=4120Rsdodbg#t=2221s",
+    "YoutubeId": "4120Rsdodbg",
+    "StartTiming": "2221",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "26",
+    "Id": 19,
+    "Title": "OnMonteEnMaster S01E07",
+    "Description": "TvZ full mech",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=VVwCHPKZfzE#t=53s",
+    "YoutubeId": "VVwCHPKZfzE",
+    "StartTiming": "53",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "27",
+    "Id": 20,
+    "Title": "OnMonteEnMaster S01E07",
+    "Description": "PvT introduction à la prise d'info et macro",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$id": "28",
+        "Id": 4,
+        "Name": "Platinum",
+        "Token": "p"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=VVwCHPKZfzE#t=977s",
+    "YoutubeId": "VVwCHPKZfzE",
+    "StartTiming": "977",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "29",
+    "Id": 21,
+    "Title": "OnMonteEnMaster S01E07",
+    "Description": "ZvZ gaz 10 pool 10",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=VVwCHPKZfzE#t=1879s",
+    "YoutubeId": "VVwCHPKZfzE",
+    "StartTiming": "1879",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "30",
+    "Id": 22,
+    "Title": "OnMonteEnMaster S01E07",
+    "Description": "ZVP (anti gate expend) ",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=VVwCHPKZfzE#t=2572s",
+    "YoutubeId": "VVwCHPKZfzE",
+    "StartTiming": "2572",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "31",
+    "Id": 23,
+    "Title": "OnMonteEnMaster S01E08",
+    "Description": "TvZ Macro game sur 3 bases",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=4KiQ6ak7i2U#t=8s",
+    "YoutubeId": "4KiQ6ak7i2U",
+    "StartTiming": "8",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "32",
+    "Id": 24,
+    "Title": "OnMonteEnMaster S01E08",
+    "Description": "PvP anti cheese et adaptation",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=4KiQ6ak7i2U#t=1049s",
+    "YoutubeId": "4KiQ6ak7i2U",
+    "StartTiming": "1049",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "33",
+    "Id": 25,
+    "Title": "OnMonteEnMaster S01E08",
+    "Description": "ZvZ BO du banling défensif anti all in avec transition muta",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=4KiQ6ak7i2U#t=2052s",
+    "YoutubeId": "4KiQ6ak7i2U",
+    "StartTiming": "2052",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "34",
+    "Id": 26,
+    "Title": "OnMonteEnMaster S01E09",
+    "Description": "TvZ All in 2 rax",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=OklUjTQYUEQ",
+    "YoutubeId": "OklUjTQYUEQ",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "35",
+    "Id": 27,
+    "Title": "OnMonteEnMaster S01E09",
+    "Description": "TvT orienté macro (2 games)",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=OklUjTQYUEQ#t=676s",
+    "YoutubeId": "OklUjTQYUEQ",
+    "StartTiming": "676",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "36",
+    "Id": 28,
+    "Title": "OnMonteEnMaster S01E09",
+    "Description": "PvP adaptation jeu aérien",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=OklUjTQYUEQ#t=1682s",
+    "YoutubeId": "OklUjTQYUEQ",
+    "StartTiming": "1682",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "37",
+    "Id": 29,
+    "Title": "OnMonteEnMaster S01E09",
+    "Description": "ZvT, BO du roach 1/1 avec transition",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=OklUjTQYUEQ#t=2512s",
+    "YoutubeId": "OklUjTQYUEQ",
+    "StartTiming": "2512",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "38",
+    "Id": 30,
+    "Title": "OnMonteEnMaster S01E10",
+    "Description": "TvZ Macro full mech camping",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=GyDSa_6HZqY",
+    "YoutubeId": "GyDSa_6HZqY",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "39",
+    "Id": 31,
+    "Title": "OnMonteEnMaster S01E10",
+    "Description": "PvT jeu sur 2 bases",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=L_mNCVGG0pg",
+    "YoutubeId": "L_mNCVGG0pg",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "40",
+    "Id": 32,
+    "Title": "OnMonteEnMaster S01E10",
+    "Description": "ZvZ en allins avec la malédiction du ZvZ ^^",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$id": "41",
+        "Id": 5,
+        "Name": "Diamond",
+        "Token": "d"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=UcbEvdbz0gc",
+    "YoutubeId": "UcbEvdbz0gc",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "42",
+    "Id": 33,
+    "Title": "OnMonteEnMaster S01E10",
+    "Description": "ZvP en macro fast 3 bases vs allin protoss sur 2 bases",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=O-DZ5u5FDsM",
+    "YoutubeId": "O-DZ5u5FDsM",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "43",
+    "Id": 34,
+    "Title": "OnMonteEnMaster S01E11",
+    "Description": "TvP orienté macro avec adaptation et scout du cheese puis sanction",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=53x8JwtaqjY",
+    "YoutubeId": "53x8JwtaqjY",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "44",
+    "Id": 35,
+    "Title": "OnMonteEnMaster S01E11",
+    "Description": "PvT avec jeu macrogame Zealotcharge/HT",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=V4bP6t6EYcM",
+    "YoutubeId": "V4bP6t6EYcM",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "45",
+    "Id": 36,
+    "Title": "OnMonteEnMaster S01E11",
+    "Description": "ZvRand (ZvZ), scout et adaptation au cheese sur b1 ling banling avec BO du banling défensif",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=2fQaacRF178",
+    "YoutubeId": "V4bP6t6EYcM",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "46",
+    "Id": 37,
+    "Title": "OnMonteEnMaster S01E12",
+    "Description": "TvZ: 1ère game TvZ... spéciale",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=o3_hw1W0cZA",
+    "YoutubeId": "o3_hw1W0cZA",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "47",
+    "Id": 38,
+    "Title": "OnMonteEnMaster S01E12",
+    "Description": "PvT macro game",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=iI0ClOrROoY",
+    "YoutubeId": "iI0ClOrROoY",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "48",
+    "Id": 39,
+    "Title": "OnMonteEnMaster S01E12",
+    "Description": "zvz rapide",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=6en6sXHoLow",
+    "YoutubeId": "6en6sXHoLow",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "49",
+    "Id": 40,
+    "Title": "OnMonteEnMaster S01E12",
+    "Description": "ZvP macrogame",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=6en6sXHoLow#t=400s",
+    "YoutubeId": "6en6sXHoLow",
+    "StartTiming": "400",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "50",
+    "Id": 41,
+    "Title": "OnMonteEnMaster S01E13",
+    "Description": "TvP macro game après petite pression de la part du protoss",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=pi-St9-WGSs",
+    "YoutubeId": "pi-St9-WGSs",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "51",
+    "Id": 42,
+    "Title": "OnMonteEnMaster S01E13",
+    "Description": "PvZ avec macrogame après ouverture stargate",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=u0qipdlV5uo",
+    "YoutubeId": "u0qipdlV5uo",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "52",
+    "Id": 43,
+    "Title": "OnMonteEnMaster S01E13",
+    "Description": "ZvZ (grrrr....) anti gaz10 pool 10 cheese",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=CMPbE0dSG5A",
+    "YoutubeId": "CMPbE0dSG5A",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "53",
+    "Id": 44,
+    "Title": "OnMonteEnMaster S01E13",
+    "Description": "ZvT, BO macro qui contre le helion maurau medivac push (fait par mvp en finales wcs vs stephano)",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=CMPbE0dSG5A#t=458s",
+    "YoutubeId": "CMPbE0dSG5A",
+    "StartTiming": "458",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "54",
+    "Id": 45,
+    "Title": "OnMonteEnMaster S01E14",
+    "Description": "TvT macro",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=z_9JG7JSURw#t=1003s",
+    "YoutubeId": "z_9JG7JSURw",
+    "StartTiming": "1003",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "55",
+    "Id": 46,
+    "Title": "OnMonteEnMaster S01E14",
+    "Description": "PvP avec l'illustration de la fast expend aidée du MC",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=BJbe4__MMwo",
+    "YoutubeId": "BJbe4__MMwo",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "56",
+    "Id": 47,
+    "Title": "OnMonteEnMaster S01E14",
+    "Description": "ZvT ouverture b3 safe avec défense roachs puis macro game muta ling banling",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=ffWlvzJ6tKU",
+    "YoutubeId": "ffWlvzJ6tKU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "57",
+    "Id": 48,
+    "Title": "OnMonteEnMaster S01E14",
+    "Description": "TvP Une lose (!) avec explications",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=z_9JG7JSURw",
+    "YoutubeId": "z_9JG7JSURw",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "58",
+    "Id": 49,
+    "Title": "OnMonteEnMaster S01E15",
+    "Description": "TvX (TvZ) drop helbat sur 3 bases",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=w61Zl8cp1ig",
+    "YoutubeId": "w61Zl8cp1ig",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "59",
+    "Id": 50,
+    "Title": "OnMonteEnMaster S01E15",
+    "Description": "PvZ skytoss camping avec canons photons",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=3cv4qJR3-7M",
+    "YoutubeId": "3cv4qJR3-7M",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "60",
+    "Id": 51,
+    "Title": "OnMonteEnMaster S01E15",
+    "Description": "ZvZ macro game avec mutas",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=hjjYm_H7mfs",
+    "YoutubeId": "hjjYm_H7mfs",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "61",
+    "Id": 52,
+    "Title": "OnMonteEnMaster S01E16",
+    "Description": "TvP macro full mech :) ",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=e1zYjlQ2DXg",
+    "YoutubeId": "e1zYjlQ2DXg",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "62",
+    "Id": 53,
+    "Title": "OnMonteEnMaster S01E16",
+    "Description": "PvT macro HT",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=CHooOcyPi4o",
+    "YoutubeId": "CHooOcyPi4o",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "63",
+    "Id": 54,
+    "Title": "OnMonteEnMaster S01E16",
+    "Description": "ZvZ (MEHHHHHHHHHHHHHHHHH)",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=m2HsFQcNhkI",
+    "YoutubeId": "m2HsFQcNhkI",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "64",
+    "Id": 55,
+    "Title": "OnMonteEnMaster S01E16",
+    "Description": "ZVZ (MEHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH)",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=J5bFlas2_rE",
+    "YoutubeId": "J5bFlas2_rE",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "65",
+    "Id": 56,
+    "Title": "OnMonteEnMaster S01E16",
+    "Description": "ZvP Anti allin sur 2 bases protoss",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=zFBWiSeVLso",
+    "YoutubeId": "zFBWiSeVLso",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "66",
+    "Id": 57,
+    "Title": "OnMonteEnMaster S01E17",
+    "Description": "TvZ chelou ^^",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=5CCL-2tbjMo",
+    "YoutubeId": "5CCL-2tbjMo",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "67",
+    "Id": 58,
+    "Title": "OnMonteEnMaster S01E17",
+    "Description": "TvT proxy marau",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=3k0VZ-5VFKY",
+    "YoutubeId": "3k0VZ-5VFKY",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "68",
+    "Id": 59,
+    "Title": "OnMonteEnMaster S01E17",
+    "Description": "PvP fast exp anti allin",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=CeU35DP5WmY",
+    "YoutubeId": "CeU35DP5WmY",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "69",
+    "Id": 60,
+    "Title": "OnMonteEnMaster S01E17",
+    "Description": "ZvT jeu macro adaptatif",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=fdKplRW9qsA",
+    "YoutubeId": "fdKplRW9qsA",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "70",
+    "Id": 61,
+    "Title": "OnMonteEnMaster S01E18",
+    "Description": "TvZ jeu bio vs mech macro full mech avec switch BCs",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=VJRAvFRwHvo",
+    "YoutubeId": "VJRAvFRwHvo",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "71",
+    "Id": 62,
+    "Title": "OnMonteEnMaster S01E18",
+    "Description": "PvZ sanction 1 gate exp avec pression méchante",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=sti2d03tm98",
+    "YoutubeId": "sti2d03tm98",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "72",
+    "Id": 63,
+    "Title": "OnMonteEnMaster S01E18",
+    "Description": "ZvZ jeu spécial :) contre du mass air",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=NO7N80vnjt0",
+    "YoutubeId": "NO7N80vnjt0",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "73",
+    "Id": 64,
+    "Title": "OnMonteEnMaster S01E19",
+    "Description": "TvP macro ouverture reaper et jeu adaptatif",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=ArFE7a48FfM",
+    "YoutubeId": "ArFE7a48FfM",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "74",
+    "Id": 65,
+    "Title": "OnMonteEnMaster S01E19",
+    "Description": "PvZ cheesy 5 gates sur B2 loupé puis double stargate",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=V6eghURqLZU",
+    "YoutubeId": "V6eghURqLZU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "75",
+    "Id": 66,
+    "Title": "OnMonteEnMaster S01E19",
+    "Description": "ZvZ gaz 10 pool 10",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=U9kphxByacA",
+    "YoutubeId": "U9kphxByacA",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "76",
+    "Id": 67,
+    "Title": "OnMonteEnMaster S01E19",
+    "Description": "ZvT 4 queen fast 3 bases gling roach baneling",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=v_vWwInbghE",
+    "YoutubeId": "v_vWwInbghE",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-07-15T10:57:00",
+    "CreationDateString": "15/07/2013 10:57:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "77",
+    "Id": 68,
+    "Title": "OnMonteEnMaster S02E01",
+    "Description": "TvT 3 rax maurau",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$id": "78",
+        "Id": 1,
+        "Name": "Bronze",
+        "Token": "b"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=KwJ4AxCK_fA",
+    "YoutubeId": "KwJ4AxCK_fA",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "79",
+    "Id": 69,
+    "Title": "OnMonteEnMaster S02E01",
+    "Description": "4 gates fast",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "78"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=KwJ4AxCK_fA#t=738",
+    "YoutubeId": "KwJ4AxCK_fA",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "80",
+    "Id": 70,
+    "Title": "OnMonteEnMaster S02E01",
+    "Description": "ZvT Banlings 1 base",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "78"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=KwJ4AxCK_fA#t=1198",
+    "YoutubeId": "KwJ4AxCK_fA",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "81",
+    "Id": 71,
+    "Title": "OnMonteEnMaster S02E02",
+    "Description": "TvT push helion marauder",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "78"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=Fo4XQ9EqN6Y",
+    "YoutubeId": "Fo4XQ9EqN6Y",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "82",
+    "Id": 72,
+    "Title": "OnMonteEnMaster S02E02",
+    "Description": "PvP 4 gates complet",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "78"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=Fo4XQ9EqN6Y#t=579",
+    "YoutubeId": "Fo4XQ9EqN6Y",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "83",
+    "Id": 73,
+    "Title": "OnMonteEnMaster S02E02",
+    "Description": "ZvP push roachs sur B1",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=Fo4XQ9EqN6Y#t=1274",
+    "YoutubeId": "Fo4XQ9EqN6Y",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "84",
+    "Id": 74,
+    "Title": "OnMonteEnMaster S02E03",
+    "Description": "TvZ polt push",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=wuGifCtU4MM",
+    "YoutubeId": "wuGifCtU4MM",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "85",
+    "Id": 75,
+    "Title": "OnMonteEnMaster S02E03",
+    "Description": "PvT 4 gate complet",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=wuGifCtU4MM#t=619",
+    "YoutubeId": "wuGifCtU4MM",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "86",
+    "Id": 76,
+    "Title": "OnMonteEnMaster S02E03",
+    "Description": "ZvZ gestion de cheese et transition BO simple roach +1",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=wuGifCtU4MM#t=1008",
+    "YoutubeId": "wuGifCtU4MM",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "87",
+    "Id": 77,
+    "Title": "OnMonteEnMaster S02E04",
+    "Description": "TvT push marines tanks",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=Cvuqj3xL9Cw",
+    "YoutubeId": "Cvuqj3xL9Cw",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "88",
+    "Id": 78,
+    "Title": "OnMonteEnMaster S02E04",
+    "Description": "PvZ 4 gates",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=Cvuqj3xL9Cw#t=830",
+    "YoutubeId": "Cvuqj3xL9Cw",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "89",
+    "Id": 79,
+    "Title": "OnMonteEnMaster S02E04",
+    "Description": "ZvZ push roachs simple sur 2 bases",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=Cvuqj3xL9Cw#t=1478",
+    "YoutubeId": "Cvuqj3xL9Cw",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "90",
+    "Id": 80,
+    "Title": "OnMonteEnMaster S02E05",
+    "Description": "tvp push bio sur une base (intro au jeu bio)",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=hr1P3lq2o70",
+    "YoutubeId": "hr1P3lq2o70",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "91",
+    "Id": 81,
+    "Title": "OnMonteEnMaster S02E05",
+    "Description": "pvp 3g robot simple et efficace",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=hr1P3lq2o70#t=659",
+    "YoutubeId": "hr1P3lq2o70",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "92",
+    "Id": 82,
+    "Title": "OnMonteEnMaster S02E05",
+    "Description": "ZvP prépa du push roach safe",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=hr1P3lq2o70#t=1210",
+    "YoutubeId": "hr1P3lq2o70",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "93",
+    "Id": 83,
+    "Title": "OnMonteEnMaster S02E06",
+    "Description": "TvZ Polt push",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=Ug4tl0hLYdI",
+    "YoutubeId": "Ug4tl0hLYdI",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "94",
+    "Id": 84,
+    "Title": "OnMonteEnMaster S02E06",
+    "Description": "PvT, 3g robot",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=Ug4tl0hLYdI#t=601",
+    "YoutubeId": "Ug4tl0hLYdI",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "95",
+    "Id": 85,
+    "Title": "OnMonteEnMaster S02E06",
+    "Description": "ZvT, Push roach banelings",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=Ug4tl0hLYdI#t=1119",
+    "YoutubeId": "Ug4tl0hLYdI",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "96",
+    "Id": 86,
+    "Title": "OnMonteEnMaster S02E07",
+    "Description": "TvT réalisation propre du 1/1/1 simple",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=ZL1ALDSBalU",
+    "YoutubeId": "ZL1ALDSBalU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "97",
+    "Id": 87,
+    "Title": "OnMonteEnMaster S02E07",
+    "Description": "PvT Expend protoss avec timing push",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=ZL1ALDSBalU#t=640",
+    "YoutubeId": "ZL1ALDSBalU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "98",
+    "Id": 88,
+    "Title": "OnMonteEnMaster S02E07",
+    "Description": "ZvZ jeu adaptatif",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=ZL1ALDSBalU#t=1162",
+    "YoutubeId": "ZL1ALDSBalU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "99",
+    "Id": 89,
+    "Title": "OnMonteEnMaster S02E08",
+    "Description": "TvZ anti cheese",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=9x97si8zIUU",
+    "YoutubeId": "9x97si8zIUU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "100",
+    "Id": 90,
+    "Title": "OnMonteEnMaster S02E08",
+    "Description": "PvT 2 bases colossus",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=9x97si8zIUU#t=392",
+    "YoutubeId": "9x97si8zIUU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "101",
+    "Id": 91,
+    "Title": "OnMonteEnMaster S02E08",
+    "Description": "ZvP jeu adaptatif",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=9x97si8zIUU#t=1086",
+    "YoutubeId": "9x97si8zIUU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "102",
+    "Id": 92,
+    "Title": "OnMonteEnMaster S02E09",
+    "Description": "TvZ Push marine avec shield et adaptation",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=AjC8nsd4q0E",
+    "YoutubeId": "AjC8nsd4q0E",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "103",
+    "Id": 93,
+    "Title": "OnMonteEnMaster S02E09",
+    "Description": "PvT cheese oracle, adaptation go aerien",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=AjC8nsd4q0E#t=931",
+    "YoutubeId": "AjC8nsd4q0E",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "104",
+    "Id": 94,
+    "Title": "OnMonteEnMaster S02E09",
+    "Description": "ZvT, fast roach 1/1 (si FE terran)",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=AjC8nsd4q0E#t=1520",
+    "YoutubeId": "AjC8nsd4q0E",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "105",
+    "Id": 95,
+    "Title": "All in zealots",
+    "Description": "PvZ cheesy, zealots après nexus first sans forge puis void rays",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      },
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=2MB0kHXtKHQ",
+    "YoutubeId": "2MB0kHXtKHQ",
+    "StartTiming": "",
+    "TutoType": {
+      "$id": "106",
+      "Name": "BuildOrder",
+      "Token": "b"
+    },
+    "Caster": {
+      "$id": "107",
+      "Name": "StraightEdge",
+      "Token": "s"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "108",
+    "Id": 96,
+    "Title": "Guide du PvP (54min) - PvP",
+    "Description": "Explications générales sur une game pvp avec le decision making ",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      },
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=pCwWGm26hnw",
+    "YoutubeId": "pCwWGm26hnw",
+    "StartTiming": "",
+    "TutoType": {
+      "$id": "109",
+      "Name": "Concepts",
+      "Token": "c"
+    },
+    "Caster": {
+      "$ref": "107"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "110",
+    "Id": 97,
+    "Title": "Macrogame PvT (54min)",
+    "Description": "Explications générales sur un PvT macro",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      },
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=qDSev3Si-9E",
+    "YoutubeId": "qDSev3Si-9E",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "106"
+    },
+    "Caster": {
+      "$ref": "107"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "111",
+    "Id": 98,
+    "Title": "Le skytoss de Makoz",
+    "Description": "Strategie mass air en PvZ",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      },
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      },
+      {
+        "$id": "112",
+        "Id": 6,
+        "Name": "Master",
+        "Token": "m"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=wXclCT6on5E",
+    "YoutubeId": "wXclCT6on5E",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "106"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "113",
+    "Id": 99,
+    "Title": "Contrer un canon rush",
+    "Description": "Contrer un canon rush, avec le MSC et rush stargate",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "78"
+      },
+      {
+        "$ref": "4"
+      },
+      {
+        "$ref": "17"
+      },
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      },
+      {
+        "$ref": "112"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=O7xvDsZ74lk",
+    "YoutubeId": "O7xvDsZ74lk",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "109"
+    },
+    "Caster": {
+      "$ref": "107"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "114",
+    "Id": 100,
+    "Title": "Zealot to DT ou Archons",
+    "Description": "Push sur 2 gates avec 5 zealots, puis warp prism dt ou archons suivant la détection adverse",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      },
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.dailymotion.com/video/xzsayt_tuto-hots-pvz-de-neverdie_videogames",
+    "YoutubeId": null,
+    "StartTiming": null,
+    "TutoType": {
+      "$ref": "106"
+    },
+    "Caster": {
+      "$id": "115",
+      "Name": "NeverDie",
+      "Token": "n"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "116",
+    "Id": 101,
+    "Title": "1 gate Expand, pression 4 gates",
+    "Description": "Plutot difficile, on part sur 1 gate expand avec mass sentries, puis un go avant 8min, et recall si besoin",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      },
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=wBxPhxAjdmw",
+    "YoutubeId": "wBxPhxAjdmw",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "106"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "117",
+    "Id": 102,
+    "Title": "Le double robo colossus",
+    "Description": "All in colossus direct ou après avoir scouté pleins de marines",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "4"
+      },
+      {
+        "$ref": "17"
+      },
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=dUMWpXXV-Tc",
+    "YoutubeId": "dUMWpXXV-Tc",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "106"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "118",
+    "Id": 103,
+    "Title": "All in Immo Void Rays sur B2",
+    "Description": "Fast expand > 3g robo > stargate et go avec 2/3 void rays. La vidéo montre une 2eme game contre des oracles",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      },
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=a7ZgaDWyM1U",
+    "YoutubeId": "a7ZgaDWyM1U",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "106"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "119",
+    "Id": 104,
+    "Title": "OnMonteEnMaster S02e10",
+    "Description": "2 games : TvZ (game pas top) et TvT (ouverture agressive standard)",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=-hl-RMrO_w0",
+    "YoutubeId": "-hl-RMrO_w0",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "120",
+    "Id": 105,
+    "Title": "OnMonteEnMaster S02e10",
+    "Description": "TvT (ouverture agressive standard)",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=-hl-RMrO_w0",
+    "YoutubeId": "-hl-RMrO_w0",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "121",
+    "Id": 106,
+    "Title": "OnMonteEnMaster S02e10",
+    "Description": "TvZ (game pas top)",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=-hl-RMrO_w0",
+    "YoutubeId": "-hl-RMrO_w0",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "122",
+    "Id": 107,
+    "Title": "OnMonteEnMaster S02e10",
+    "Description": "PvT ouverture safe et contre push",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=-hl-RMrO_w0#t=1197",
+    "YoutubeId": "-hl-RMrO_w0",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "123",
+    "Id": 108,
+    "Title": "OnMonteEnMaster S02e10",
+    "Description": "ZvT jeu safe et timing push",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=-hl-RMrO_w0#t=1991",
+    "YoutubeId": "-hl-RMrO_w0",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "124",
+    "Id": 109,
+    "Title": "OnMonteEnMaster s02e12",
+    "Description": "TvP départ macro classique et push",
+    "Races": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=oqFuAP9AelU",
+    "YoutubeId": "oqFuAP9AelU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "125",
+    "Id": 110,
+    "Title": "OnMonteEnMaster s02e12",
+    "Description": "PvZ  le fameux 7 Gate robot",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=oqFuAP9AelU#t=893",
+    "YoutubeId": "oqFuAP9AelU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "126",
+    "Id": 111,
+    "Title": "OnMonteEnMaster s02e12",
+    "Description": "ZvT Jeu macro muta classique",
+    "Races": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "2"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "17"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?feature=player_detailpage&v=oqFuAP9AelU#t=1481",
+    "YoutubeId": "oqFuAP9AelU",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "5"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "127",
+    "Id": 112,
+    "Title": "Phoenix to Macro de Zest",
+    "Description": "Idée : partir dans tous les cas sur un BO de fast expend, et faire une transition rapide sur les phoenix pour :  - avoir le map control  - tuer des overlords/drones/queens  -permettre la sécurisation d'une b3 rapide.",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [
+      {
+        "$ref": "3"
+      }
+    ],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "28"
+      },
+      {
+        "$ref": "41"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=Y7U7Hp01Ghc",
+    "YoutubeId": "Y7U7Hp01Ghc",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "106"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  },
+  {
+    "$id": "128",
+    "Id": 113,
+    "Title": "On macro correctement sur une base",
+    "Description": "BO destiné à l'apprentissage et optimisation des mécaniques protoss pour les joueurs de basse ligue.   Il s'apparente à ce que l'on va trouver plus tard cOnMonteEnMastere stratégie sur 2 bases, mais ici on l’exécute sur une base afin de prendre de bonnes habitudes et se familiariser avec un BO propre, éviter le supply block, le cut de la production, etc etc.   Cette stratégie est très safe contre tout type de cheese ou all-in car on fait un \"3 gates robot sur b1 amélioré\".  C'est valable contre toutes les races.",
+    "Races": [
+      {
+        "$ref": "8"
+      }
+    ],
+    "RaceShort": null,
+    "Againsts": [],
+    "AgainstShort": null,
+    "Leagues": [
+      {
+        "$ref": "78"
+      },
+      {
+        "$ref": "4"
+      }
+    ],
+    "VideoUrl": "http://www.youtube.com/watch?v=Gm_y8rEIOZ4",
+    "YoutubeId": "Gm_y8rEIOZ4",
+    "StartTiming": "",
+    "TutoType": {
+      "$ref": "106"
+    },
+    "Caster": {
+      "$ref": "6"
+    },
+    "VideoProvider": null,
+    "CreationDate": "2013-01-01T00:00:00",
+    "CreationDateString": "01/01/2013 00:00:00",
+    "PathToPdf": "",
+    "VideoThumbUrl": ""
+  }
+]

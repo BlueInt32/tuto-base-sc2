@@ -19,7 +19,7 @@ Sleep(200)
 Send("^r")
 Sleep(200)
 Send("VideoLib{ENTER}")
-Send("start chrome localhost:8000/index.html{ENTER}")
+Send("start chrome http://localhost:8000/index.html{ENTER}")
 
 
 
